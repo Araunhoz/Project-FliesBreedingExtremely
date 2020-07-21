@@ -1,5 +1,5 @@
 /*
- * Desenvolvedores: Felipe Lourenço e Paulo Henrique Araújo Munhoz
+ * Desenvolvedores: Felipe Lourenço e Paulo Henrique Munhoz
  */
 
 
